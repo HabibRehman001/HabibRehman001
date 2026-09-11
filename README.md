@@ -139,7 +139,7 @@ Whether shipping UI, wiring APIs, or polishing the full stack end to end, I make
 
 <br/><br/>
 
-<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=HabibRehman001&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Battlefield" alt="Contribution graph" />
+<img width="900" src="https://activity-graph.vercel.app/graph?username=HabibRehman001&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Battlefield" alt="Contribution graph" />
 
 
 </div>
