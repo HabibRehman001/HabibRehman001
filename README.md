@@ -35,16 +35,16 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/HabibRehman001/HabibRehman001/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/HabibRehman001/HabibRehman001/output/github-contribution-grid-snake.svg"
   />
   <img
     width="900"
     alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/HabibRehman001/HabibRehman001/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
@@ -148,17 +148,17 @@ I'm constantly experimenting with new technologies, improving my problem-solving
 
 ## 📊 GitHub Battle Stats
 
-<img width="900" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" alt="GitHub stats" />
+<img width="900" src="https://github-readme-stats.vercel.app/api?username=HabibRehman001&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" alt="GitHub stats" />
 
 <br/><br/>
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="Top languages" />
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibRehman001&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="Top languages" />
 
-<img width="420" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&amp;theme=radical&amp;hide_border=true" alt="GitHub streak" />
+<img width="420" src="https://streak-stats.demolab.com?user=HabibRehman001&amp;theme=radical&amp;hide_border=true" alt="GitHub streak" />
 
 <br/><br/>
 
-<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Battlefield" alt="Contribution graph" />
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=HabibRehman001&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Battlefield" alt="Contribution graph" />
 
 </div>
 
@@ -179,47 +179,55 @@ I'm constantly experimenting with new technologies, improving my problem-solving
 ## 🧠 Skill Tree
 
 ```mermaid
-mindmap
-  root((Habib Rehman))
-    Full Stack Development
-      MERN Stack
-        MongoDB
-        Express
-        React
-        Node.js
-      REST APIs
-      Authentication
-      Real-Time Applications
-      Socket.IO
-    Frontend
-      React
-      JavaScript
-      Tailwind CSS
-      GSAP
-      Three.js
-      React Three Fiber
-    Data Science
-      Python
-      Statistics
-      Data Analysis
-      Machine Learning
-      Data Visualization
-    AI
-      AI APIs
-      Prompt Engineering
-      Automation
-      AI Agents
-    DevOps
-      Linux
-      Git
-      GitHub
-      Docker
-      Deployment
-    Creative Development
-      Three.js
-      R3F
-      Web Animations
-      Interactive UI
+flowchart TD
+  root(["Habib Rehman"])
+
+  root --> fs["Full Stack Development"]
+  root --> fe["Frontend"]
+  root --> ds["Data Science"]
+  root --> ai["AI"]
+  root --> ops["DevOps"]
+  root --> cre["Creative Development"]
+
+  fs --> mern["MERN Stack"]
+  fs --> rest["REST APIs"]
+  fs --> auth["Authentication"]
+  fs --> realtime["Real-Time Applications"]
+  fs --> socket["Socket.IO"]
+
+  mern --> mongo["MongoDB"]
+  mern --> express["Express"]
+  mern --> reactfs["React"]
+  mern --> node["Node.js"]
+
+  fe --> reactfe["React"]
+  fe --> js["JavaScript"]
+  fe --> tw["Tailwind CSS"]
+  fe --> gsap["GSAP"]
+  fe --> three["Three.js"]
+  fe --> r3f["React Three Fiber"]
+
+  ds --> py["Python"]
+  ds --> stats["Statistics"]
+  ds --> analysis["Data Analysis"]
+  ds --> ml["Machine Learning"]
+  ds --> viz["Data Visualization"]
+
+  ai --> apis["AI APIs"]
+  ai --> prompt["Prompt Engineering"]
+  ai --> auto["Automation"]
+  ai --> agents["AI Agents"]
+
+  ops --> linux["Linux"]
+  ops --> git["Git"]
+  ops --> github["GitHub"]
+  ops --> docker["Docker"]
+  ops --> deploy["Deployment"]
+
+  cre --> three2["Three.js"]
+  cre --> r3f2["R3F"]
+  cre --> anim["Web Animations"]
+  cre --> ui["Interactive UI"]
 ```
 
 ---
